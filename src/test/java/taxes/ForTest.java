@@ -29,7 +29,7 @@ public class ForTest {
     }
 
     @Test
-    @DisplayName("Проверка отрицательного налоги при УСН 15%")
+    @DisplayName("Проверка отрицательного налога при УСН 15%")
     public void testTaxSystem15_minusSumm_success() {
 
         int x = 80;
